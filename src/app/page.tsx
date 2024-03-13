@@ -16,7 +16,7 @@ export default function Home() {
         <div className="w-full grid pt-10 gap-6 md:grid-cols-3 lg:grid-cols-3">
           <div className="card bg-white p-4 rounded-md">
             <h3>Basic Plan</h3>
-            <h1 className="font-black text-gray-600 text-4xl py-8">
+            <h1 className="font-black text-gray-500 text-5xl py-8">
               $9.99<span className="text-xl ml-2">/month</span>
             </h1>
             <div className="benefits">
@@ -30,7 +30,7 @@ export default function Home() {
           </div>
           <div className="card bg-white p-4 rounded-md">
             <h3>Standard Plan</h3>
-            <h1 className="font-black text-gray-600 text-4xl py-8">
+            <h1 className="font-black text-gray-500 text-5xl py-8">
               $19.99<span className="text-xl ml-2">/month</span>
             </h1>
             <div className="benefits">
@@ -44,7 +44,7 @@ export default function Home() {
           </div>
           <div className="card bg-white p-4 rounded-md">
             <h3>Pro Plan</h3>
-            <h1 className="font-black text-gray-600 text-4xl py-8">
+            <h1 className="font-black text-gray-500 text-5xl py-8">
               $29.99<span className="text-xl ml-2">/month</span>
             </h1>
             <div className="benefits">
