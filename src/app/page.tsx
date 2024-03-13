@@ -5,7 +5,7 @@ export default function Home() {
   return (
     <main className="flex min-h-screen flex-col   p-[30px] bg-gray-200 lg:items-center">
       <div className="lg:w-[960px]">
-        <h1 className="text-center font-black text-5xl text-gray-600 pb-5">
+        <h1 className="text-center font-black text-4xl text-gray-600 pb-5">
           Bucket<span className="text-custom">List</span>
         </h1>
         <h3 className="text-xl font-bold pb-3 text-center">
