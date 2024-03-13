@@ -14,7 +14,7 @@ export default function Home() {
         <p className=" text-center">Choose the plan that fits your needs</p>
 
         <div className="w-full grid pt-10 gap-6 md:grid-cols-3 lg:grid-cols-3">
-          <div className="card bg-white p-4 rounded-md">
+          <div className="card bg-white p-4 rounded-md hover:bg-gray-300">
             <h3>Basic Plan</h3>
             <h1 className="font-black text-gray-500 text-4xl py-8">
               $9.99<span className="text-xl ml-2">/month</span>
@@ -42,7 +42,7 @@ export default function Home() {
               </ul>
             </div>
           </div>
-          <div className="card bg-white p-4 rounded-md">
+          <div className="card bg-white p-4 rounded-md hover:bg-gray-300">
             <h3>Pro Plan</h3>
             <h1 className="font-black text-gray-500 text-4xl py-8">
               $29.99<span className="text-xl ml-2">/month</span>
