@@ -43,7 +43,7 @@ export default function Home() {
             </div>
           </div>
           <div className="card bg-white p-4 rounded-md">
-            <h3>Basic Plan</h3>
+            <h3>Pro Plan</h3>
             <h1 className="font-black text-gray-600 text-4xl py-8">
               $29.99<span className="text-xl ml-2">/month</span>
             </h1>
