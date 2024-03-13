@@ -28,7 +28,7 @@ export default function Home() {
               </ul>
             </div>
           </div>
-          <div className="card bg-white p-4 rounded-md">
+          <div className="card bg-white p-4 rounded-md shadow-md shadow-slate-300 hover:bg-gray-300">
             <h3>Standard Plan</h3>
             <h1 className="font-black text-gray-500 text-4xl py-8">
               $19.99<span className="text-xl ml-2">/month</span>
